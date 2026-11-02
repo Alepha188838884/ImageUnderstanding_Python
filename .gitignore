@@ -9,6 +9,7 @@ snapshot.jpg
 answer.mp3
 # 本地环境
 __pycache__/
+.venv/
 .idea/
 .DS_Store
 # 会话记录
